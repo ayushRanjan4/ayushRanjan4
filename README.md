@@ -1,7 +1,10 @@
-# Hi, I'm Ayush Ranjan 👋
+<h1 align="center">Hi 👋, I'm Ayush Ranjan</h1>
 
-## 🚀 About Me
-Java & Spring Boot Developer | DSA & Competitive Programming Enthusiast  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=700&color=6DB33F&center=true&vCenter=true&width=800&lines=Java+%7C+Spring+Boot+Developer;REST+API+Builder;DSA+%26+Codeforces+Enthusiast;238%2B+LeetCode+Problems+Solved;Future+Backend+Engineer" />
+</p>
+
+--- 
 
 ## 🚀 About Me
 
