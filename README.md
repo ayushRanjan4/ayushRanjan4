@@ -1,36 +1,69 @@
-# Hi 👋, I'm Ayush Ranjan
+# Hi, I'm Ayush Ranjan 👋
 
-## 🚀 Java Backend Developer | Competitive Programmer
+## 🚀 About Me
+Java & Spring Boot Developer | DSA & Competitive Programming Enthusiast  
+
+I am a passionate backend developer who enjoys building scalable REST APIs and solving complex algorithmic problems.  
+With strong foundations in **Data Structures, Algorithms, and Object-Oriented Programming**, I continuously work on improving my coding skills through competitive programming and real-world backend projects.
+
+- 💻 Backend-focused developer (Java + Spring Boot)
+- 🧠 Strong problem-solving skills
+- 🏆 238+ problems solved on LeetCode
+- ⚡ Active participant in Codeforces contests
+- 📚 Currently improving Advanced DSA & System Design
 
 ---
 
-### 👨‍💻 About Me
-- 🔥 Passionate about Backend Development
-- 🧠 Strong in Data Structures & Algorithms
-- 💻 238+ LeetCode Problems Solved
-- ⚡ Active Codeforces Participant
-- 🌱 Currently improving System Design & Advanced DSA
-
----
-
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- Java  
+- Python  
+- SQL  
 
-### ⚙ Backend
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge)
+### ⚙️ Backend & Frameworks
+- Spring Boot  
+- Spring MVC  
+- Hibernate / JPA  
+- REST APIs  
+
+### 🗄️ Database
+- MySQL  
+
+### 🔧 Tools & Platforms
+- Git & GitHub  
+- Postman  
+- IntelliJ IDEA  
+- VS Code  
+
+### 🧠 Core Concepts
+- Data Structures & Algorithms  
+- OOP  
+- DBMS  
+- Operating Systems (Basics)  
 
 ---
 
-## 📊 GitHub Stats
-![Ayush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushranjan200430&show_icons=true&theme=radical)
+## 💻 Competitive Programming
+[![LeetCode](https://img.shields.io/badge/LeetCode-238%2B%20Solved-orange?logo=leetcode&logoColor=white)](https://leetcode.com/Ayush_30_Ranjan)  
+[![Codeforces](https://img.shields.io/badge/Codeforces-YourRating-blue?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ayush_30_Ranjan)
 
 ---
 
-## 🌐 Connect With Me
-LinkedIn | Email
+### 🏆 Highlights
+- Focus: **Arrays, Graphs, Dynamic Programming**  
+- Experienced in **REST API & Spring Boot backend development**  
+- Solved **238+ problems on LeetCode**  
+- Active participant in **Codeforces contests**
+
+---
+
+## 📂 Projects
+- [![GitHub Project](https://img.shields.io/badge/quiz--app--springboot-GitHub-black?logo=github&logoColor=white)](https://github.com/ayushranjan200430/quiz-app-springboot) – REST API, database integration, and quiz management  
+- [![GitHub Project](https://img.shields.io/badge/python--project-GitHub-black?logo=github&logoColor=white)](https://github.com/ayushranjan200430/python-project) – Python practice projects
+
+---
+
+## 🌟 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayush%20Ranjan-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushranjan200430)  
+[![Email](https://img.shields.io/badge/Email-ayushsingh76857@gmail.com-red?logo=gmail&logoColor=white)](mailto:ayushsingh76857@gmail.com)
