@@ -35,6 +35,7 @@ Currently focused on strengthening **Data Structures & Algorithms, System Design
 ![Spring MVC](https://img.shields.io/badge/Spring-MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-007396?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
 ---
 
